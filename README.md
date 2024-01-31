@@ -1,4 +1,4 @@
-<div align="center">
+![image](https://github.com/shinjaehwan123/shinjaehwan123/assets/114821403/5c1d98ee-b286-4bdd-b740-a690759c0e29)<div align="center">
   
 ### 
 ![header]()
@@ -25,14 +25,14 @@
 
 ## 💪🏼 Problem solving 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=qnekvptmxm74)](https://solved.ac/qnekvptmxm74)   
+프로필]()   
 
 </div>
    
 
 ##  🏃🏼‍♂️ Git Active  
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeokzzi&show_icons=true&theme=dracula) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shinjaehwan123&show_icons=true&theme=dracula) 
    
 </div>
   
