@@ -1,4 +1,4 @@
-![image](https://github.com/shinjaehwan123/shinjaehwan123/assets/114821403/5c1d98ee-b286-4bdd-b740-a690759c0e29)<div align="center">
+<div align="center">
   
 ### 
 ![header]()
@@ -32,7 +32,7 @@
 
 ##  🏃🏼‍♂️ Git Active  
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shinjaehwan123&show_icons=true&theme=dracula) 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=shinjaehwan123)](https://github.com/anuraghazra/github-readme-stats) 
    
 </div>
   
