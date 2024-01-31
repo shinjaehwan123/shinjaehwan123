@@ -1,9 +1,7 @@
 <div align="center">
   
 ### 
-![header](https://github.com/shinjaehwan123/shinjaehwan123/assets/114821403/218049cd-7c93-4e28-a7d2-4646ce22710a)
-)
-
+![header](https://github.com/shinjaehwan123/shinjaehwan123/assets/114821403/100dcb71-31bf-4b2a-bf19-add59c25ec54)
 </div>
 
 ## 🙌🏼 Introduction
