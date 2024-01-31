@@ -1,8 +1,8 @@
 <div align="center">
   
 ### 
-![header](https://github.com/shinjaehwan123/shinjaehwan123/assets/114821403/ff6a3d70-f5df-47f5-a209-4199a9ef9661)
-)
+![header](https://github.com/shinjaehwan123/shinjaehwan123/assets/114821403/f358cd9c-9e6d-4056-ac37-ba1a63343cdc)
+
 </div>
 
 ## 🙌🏼 Introduction
@@ -40,7 +40,6 @@
 <!--
 ## 🏆 수상경력 
 * 2023 9  3D 프린트를 이용한 전기차 제작 및 VR 주행 대회  금 
-
 
 -->
 
