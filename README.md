@@ -25,8 +25,6 @@
 * 2023.11 ~ 2024.2 경신 (KDT) 미래자동차 모델기반 SW 캠프 1기
 
 ## 💪🏼 Problem solving 
-[![Solved.ac
-프로필]()   
 
 </div>
    
