@@ -5,7 +5,7 @@
 </div>
 
 ## 🙌🏼 Introduction
-  인천대 임베디드시스템공학과 신재환입니다.
+  임베디드시스템공학과 신재환입니다.
   
 <div align="center">
   
